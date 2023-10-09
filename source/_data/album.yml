@@ -1,0 +1,165 @@
+- class_name: 这是什么二次元
+  path_name: /acgWallpaper
+  type: 1
+  description: 可以做壁纸的二次元图片🐾。
+  cover: https://picshack.net/ib/SYPx8EHWen.png
+  top_background: https://picshack.net/ib/SYPx8EHWen.png
+  rowHeight: 220
+  limit: 10
+  lazyload: true
+  btnLazyload: false
+  url: false
+  top_link: /album
+  top_btn_text: 返回
+  album_list:
+    - date: 2022/9/25 01:00:00
+      content: WinX耀西。
+      from: 网络🌐
+      image:
+        - https://picshack.net/ib/ySuhFcna0J.png
+    - date: 2022/9/25 01:00:00
+      content: 鸟居。
+      from: 网络🌐
+      image:
+        - https://picshack.net/ib/prJUmyqilo.png
+    - date: 2022/9/25 01:00:00
+      content: 路。
+      from: 网络🌐
+      image:
+        - https://picshack.net/ib/hPPOzuM1NN.png
+    - date: 2022/9/25 01:00:00
+      content: 脸。
+      from: 网络🌐
+      image:
+        - https://picshack.net/ib/7XcSieJaBU.png
+    - date: 2022/9/25 01:00:00
+      content: 懒得介绍了
+      from: 网络🌐
+      image:
+        - https://picshack.net/ib/SYPx8EHWen.png
+    - date: 2022/9/25 01:00:00
+      content: 懒得分类了
+      from: 网络🌐
+      image: 
+        - https://picshack.net/ib/AKDfr9syte.png
+    - date: 2022/9/25 01:00:00
+      content: 懒得分类了
+      from: 网络🌐
+      image:
+        - https://picshack.net/ib/v1fDAxCKe4.jpg
+    - date: 2022/9/25 01:00:00
+      content: 懒得分类了
+      from: 网络🌐
+      image:
+        - https://picshack.net/ib/BQRQX0Wxjg.png
+    - date: 2022/9/25 01:00:00
+      content: 懒得分类了
+      from: 网络🌐
+      image:
+        - https://picshack.net/ib/2oa9fWCRka.jpg
+    - date: 2022/9/25 01:00:00
+      content: 懒得分类了
+      from: 网络🌐
+      image:
+        - https://picshack.net/ib/0eziAnB8HY.png
+    - date: 2022/9/25 01:00:00
+      content: 懒得分类了
+      from: 网络🌐
+      image:
+        - https://picshack.net/ib/QGFMuQYCZf.jpg
+    - date: 2022/9/25 01:00:00
+      content: 懒得分类了
+      from: 网络🌐
+      image:
+        - https://picshack.net/ib/LGlcDlH8eJ.jpg
+    - date: 2022/9/25 01:00:00
+      content: 懒得分类了
+      from: 网络🌐
+      image:
+        - https://picshack.net/ib/hJrnUHQQFs.png
+    - date: 2022/9/25 01:00:00
+      content: 懒得分类了
+      from: 网络🌐
+      image:
+        - https://picshack.net/ib/uQUMKdeEWk.png
+    - date: 2022/9/25 01:00:00
+      content: 懒得分类了
+      from: 网络🌐
+      image:
+        - https://picshack.net/ib/4MUcgYM3p8.jpg
+    - date: 2022/9/25 01:00:00
+      content: 懒得分类了
+      from: 网络🌐
+      image:
+        - https://picshack.net/ib/YgOMestsyZ.jpg
+    - date: 2022/9/25 01:00:00
+      content: 懒得分类了
+      from: 网络🌐
+      image:
+        - https://picshack.net/ib/YfNa18Oik3.jpg
+    - date: 2022/9/25 01:00:00
+      content: 懒得分类了
+      from: 网络🌐
+      image:
+        - https://picshack.net/ib/0SWBKNW99y.jpg
+    - date: 2022/9/25 01:00:00
+      content: 懒得分类了
+      from: 网络🌐
+      image:
+        - https://picshack.net/ib/ymwqspeCOG.png
+    - date: 2022/9/25 01:00:00
+      content: 懒得分类了
+      from: 网络🌐
+      image:
+        - https://picshack.net/ib/QC9iLbddgk.jpg
+    - date: 2022/9/25 01:00:00
+      content: 懒得分类了
+      from: 网络🌐
+      image:
+        - https://picshack.net/ib/Dg6y0N3cLs.jpg
+    - date: 2022/9/25 01:00:00
+      content: 懒得分类了
+      from: 网络🌐
+      image:
+        - https://picshack.net/ib/hARzXX589S.png
+# - class_name: 世界各地夕阳与风景
+#   path_name: /wordScenery
+#   type: 2
+#   description: 因为到不了世界各地，所以请网友们发来了各地的夕阳与风景🌇。
+#   cover: https://bu.dusays.com/2023/04/09/64329399d1175.jpg
+#   top_background: https://bu.dusays.com/2023/06/30/649e546ada7dd.webp
+#   rowHeight: 220
+#   limit: 10
+#   lazyload: true
+#   btnLazyload: false
+#   url: false
+#   top_link: /album
+#   top_btn_text: 返回
+#   album_list:
+#     - date: 2022/10/26 01:00:00
+#       content: 湘潭的一角。
+#       address: 湖南湘潭
+#       from: 再吃一口就减肥
+#       image:
+#         - https://bu.dusays.com/2023/04/09/64329399db122.webp
+#     - date: 2022-10-25
+#       content: 洛阳暴雨后的天空。
+#       address: 河南洛阳
+#       from: 紫菜卷
+#       image:
+#         - https://bu.dusays.com/2023/04/09/64329399db122.webp
+#         - https://bu.dusays.com/2023/04/09/64329399db2e1.webp
+
+# - class_name: 我的日常
+#   path_name: /dailyPhoto
+#   type: 1
+#   description: 这里存放的是有关我自己的一些沙雕生活与有趣的事情。
+#   top_link: /album
+#   top_btn_text: 返回
+#   top_background: https://bu.dusays.com/2023/04/09/64329399cea5a.webp
+#   cover: https://bu.dusays.com/2023/04/09/64329399cea5a.webp
+#   album_list:
+#     - date: 2022-10-24
+#       content: 老妹的画
+#       image:
+#         - https://bu.dusays.com/2023/04/09/643293997b92b.jpeg

@@ -1,0 +1,64 @@
+- class_name: 感谢
+  class_desc: 本博客的建立要感谢他们
+  flink_style: flexcard
+  hundredSuffix: ""
+  link_list:
+    - name: Hexo
+      link: https://hexo.io/zh-tw/
+      avatar: https://d33wubrfki0l68.cloudfront.net/6657ba50e702d84afb32fe846bed54fba1a77add/827ae/logo.svg
+      descr: 快速、简单且强大的网站框架
+    - name: anzhiyu主题
+      link: https://docs.anheyu.com/
+      avatar: https://docs.anheyu.com/cover.webp
+      descr: 一个简洁、美丽的静态hexo主题
+      siteshot: https://static.likepoems.com/2023/09/19/imagea6fb9d79980a7ba7.png
+    - name: 张洪HEO
+      link: https://zhheo.com/
+      avatar: https://bu.dusays.com/2022/12/28/63ac2812183aa.png
+      descr: 产品设计师、独立开发者、设计与科技领域自媒体博主
+      siteshot: https://static.likepoems.com/2023/09/19/imagebbb838de14958ad1.png
+    - name: GitHub
+      link: https://github.com/
+      avatar: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+      descr: 全球最大的“同性”交友网站
+
+- class_name: 推荐博客
+  class_desc: 技术大牛、幽默有趣、看遍世界都在这里！
+  flink_style: telescopic
+  hundredSuffix: ""
+  link_list:
+    - name: 安知鱼
+      link: https://blog.anheyu.com/
+      avatar: https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg
+      descr: 生活明朗，万物可爱
+      siteshot: https://npm.elemecdn.com/anzhiyu-theme-static@1.1.6/img/blog.anheyu.com.jpg
+      color: vip
+      tag: 主题
+    - name: 张洪HEO
+      link: https://blog.zhheo.com/
+      avatar: https://bu.dusays.com/2022/12/28/63ac2812183aa.png
+      descr: 分享设计与科技生活
+      siteshot: https://static.likepoems.com/2023/09/19/imagea2ab9295a05086db.png
+      color: vip
+      tag: 技术
+
+- class_name: 小伙伴
+  class_desc: 那些人，那些事
+  flink_style: anzhiyu
+  hundredSuffix: ""
+  link_list:
+    - name: 安知鱼
+      link: https://blog.anheyu.com/
+      avatar: https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg
+      descr: 生活明朗，万物可爱
+      recommend: true
+    - name: 秋澪Akimio
+      link: https://blog.akimio.top/
+      avatar: https://img.akimio.top/avatar/akimio.png
+      descr: 一只喜欢七彩球的枯叶蝶
+      recommend: true
+    - name: 张洪HEO
+      link: https://blog.zhheo.com/
+      avatar: https://bu.dusays.com/2022/12/28/63ac2812183aa.png
+      descr: 分享设计与科技生活
+      recommend: true
