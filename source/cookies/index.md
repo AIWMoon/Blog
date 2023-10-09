@@ -1,17 +1,17 @@
 ---
-title: cookies
-type: cookies
-date: 2023-09-23 18:40:03
-updated: 2023-09-23 18:40:03
-comments: false
-description:
-keywords: false
-top_img: false
-mathjax: false
-katex: false
-aside: false
 aplayer: false
-highlight_shrink:
+aside: false
+comments: false
+date: '2023-09-23T18:40:03+08:00'
+description: null
+highlight_shrink: null
+katex: false
+keywords: false
+mathjax: false
+title: cookies
+top_img: false
+type: cookies
+updated: 2023-10-9T18:52:22.77+8:0
 ---
 ## Cookies
 
@@ -39,13 +39,14 @@ Cookies 提供许多功能。例如，他们可以帮助我记住你喜欢深色
 
 我将 Cookies 分为以下类别:
 
-| 用途 | 说明 |
-| --- | --- |
-| 授权 | 你访问我的网站时，我可通过 Cookie 提供正确信息，为你打造个性化的体验。例如：Cookie 会告知你通过搜索引擎搜索的具体内容来改善文章的标题优化关键词、或者创建更符合你搜索需求的文章内容。 |
-| 安全措施 | 我通过 Cookie 启用及支持安全功能，监控和防止可疑活动、欺诈性流量和违反版权协议的行为。 |
-| 偏好、功能和服务 | 我使用功能性 Cookies 来让我记住你的偏好，或保存你向我提供的有关你的喜好或其他信息。 |
-| 个性化广告 | 本站涉及 GoogleADS 个性化广告服务 |
-| 网站性能、分析和研究 | 我使用这些 cookie 来监控网站性能。这使我能够通过快速识别和解决出现的任何问题来提供高质量的体验。 |
+
+| 用途                 | 说明                                                                                                                                                                                  |
+| -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 授权                 | 你访问我的网站时，我可通过 Cookie 提供正确信息，为你打造个性化的体验。例如：Cookie 会告知你通过搜索引擎搜索的具体内容来改善文章的标题优化关键词、或者创建更符合你搜索需求的文章内容。 |
+| 安全措施             | 我通过 Cookie 启用及支持安全功能，监控和防止可疑活动、欺诈性流量和违反版权协议的行为。                                                                                                |
+| 偏好、功能和服务     | 我使用功能性 Cookies 来让我记住你的偏好，或保存你向我提供的有关你的喜好或其他信息。                                                                                                   |
+| 个性化广告           | 本站涉及 GoogleADS 个性化广告服务                                                                                                                                                     |
+| 网站性能、分析和研究 | 我使用这些 cookie 来监控网站性能。这使我能够通过快速识别和解决出现的任何问题来提供高质量的体验。                                                                                      |
 
 ## 我的网站上的第三方 Cookies
 
@@ -57,10 +58,11 @@ Cookies 提供许多功能。例如，他们可以帮助我记住你喜欢深色
 + 改善网站功能；
 + 监督我的版权协议和隐私政策的遵守情况。
 
-| 第三方服务商 | 用途 |
-| --- | --- |
-| baidu.com | 用于统计站内访问情况，进行针对性优化 |
-| ibruce.info | busuznzi 统计，用于区分访问 pv 数量和 uv 数量，在文章处展示人气 |
+
+| 第三方服务商 | 用途                                                            |
+| ------------ | --------------------------------------------------------------- |
+| baidu.com    | 用于统计站内访问情况，进行针对性优化                            |
+| ibruce.info  | busuznzi 统计，用于区分访问 pv 数量和 uv 数量，在文章处展示人气 |
 
 ## 如何管理 Cookies？
 
@@ -70,19 +72,19 @@ Cookies 提供许多功能。例如，他们可以帮助我记住你喜欢深色
 
 以下链接提供了有关如何在所有主流浏览器中控制 Cookie 的说明：
 
-[Google Chrome](https://support.google.com/chrome/answer/95647?hl=en)  
-[IE](https://support.microsoft.com/en-us/help/260971/description-of-cookies)  
-[Safari（mac 桌面版）](https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac)  
-[Safari（移动版）](https://support.apple.com/en-us/HT201265)  
-[火狐浏览器](https://support.mozilla.org/en-US/kb/Cookies-information-websites-store-on-your-computer)  
+[Google Chrome](https://support.google.com/chrome/answer/95647?hl=en)
+[IE](https://support.microsoft.com/en-us/help/260971/description-of-cookies)
+[Safari（mac 桌面版）](https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac)
+[Safari（移动版）](https://support.apple.com/en-us/HT201265)
+[火狐浏览器](https://support.mozilla.org/en-US/kb/Cookies-information-websites-store-on-your-computer)
 [Android 浏览器](http://support.google.com/ics/nexus/bin/answer.py?hl=en&answer=2425067)
 
-如你使用其他浏览器，请参阅浏览器制造商提供的文档。  
+如你使用其他浏览器，请参阅浏览器制造商提供的文档。
 有关 Cookies 以及如何管理 Cookies 的更多信息，请访问：
 
 [wikipedia.org](https://zh.wikipedia.org/wiki/Cookie) 、 [allaboutCookies.org](https://www.allaboutcookies.org/) 或 [aboutCookies.org](https://www.aboutcookies.org/)
 
-## [](#更多信息 "更多信息")更多信息
+## 更多信息
 
 有关我数据处理的更多信息，请参阅我的[隐私政策](https://aiwmoon.github.io/privacy/)。如果你对此 Cookie 政策有任何疑问，请与我联系。
 
